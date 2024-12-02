@@ -1,4 +1,4 @@
-file = File.read("../inputs/day3.txt")
+file = File.read("day3.txt")
 
 sum = 0
 

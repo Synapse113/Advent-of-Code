@@ -1,4 +1,4 @@
-file = File.read("../inputs/day2.txt")
+file = File.read("day2.txt")
 
 MAX_RED   = 12
 MAX_GREEN = 13
